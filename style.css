@@ -1,0 +1,59 @@
+.toptext {
+  font-size: 70px;
+  color: orange;
+  text-align: center;
+}
+
+.paragraph {
+  font-size: 20px;
+  color: green;
+  text-align: center;
+}
+
+.buton {
+  display: block;
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  color: red;
+  font-size: 240px;
+  background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/2e/2e4fad3395ffbf94ceaf5d86b2cb7b6023a5e112_full.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ban {
+  font-size: 30;
+  color: red;
+  text-align: center;
+}
+
+.banman {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hehe {
+  position: absolute;
+  z-index: -10;
+}
+
+.banmanbutton {
+  display: block;
+  margin: auto;
+  width: 600px;
+  height: 150px;
+  font-size: 50px;
+  color: red;
+}
+
+.back {
+  width: 100px;
+  height: 50px;
+}
